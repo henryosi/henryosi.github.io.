@@ -1,0 +1,81 @@
+body {
+	text-align: center;
+	text-decoration: none;
+	margin: 0;
+}
+footer{
+	text-transform: uppercase;
+	padding: 0 20px;
+	background-color: #0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+.copyright{
+	float: left;
+}
+.message{
+	float: right;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+    font-size: 0;
+}
+.name{
+	color: #F15B31;
+	font-weight: 700;
+}
+header{
+	background-color: #F15B31;
+	color: #FFFFFF;
+	padding: 30PX 20PX;
+}
+nav {
+	background-color: #00A6B6;
+	color: #FFFFFF;
+	padding: 20px 0;
+}
+main {
+	width: 850px;
+	margin: 35px auto;
+}
+h1{
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
+	font-size: 45PX;
+	letter-spacing: 1PX;
+	text-transform: uppercase;
+	margin: 0;
+}
+a{
+	font-family: "Raleway", sans-serif;
+	font-weight: 600;
+	font-size: 18PX;
+	color: #FFFFFF;
+	letter-spacing: 1PX;
+	text-transform: uppercase;text-decoration: none;
+	border-bottom: 2px solid transparent; 
+	margin: 0 20px;
+}
+a:hover{
+	border-color: white; 
+}
+h2 {
+	font-family: "Raleway", sans-serif;
+	color: #0D2C40;
+	font-size: 20PX;
+	font-weight: 600;
+	letter-spacing: 1PX;
+	text-transform: uppercase;
+}
+p {
+	font-family: "Driod Serif", serif;
+}
+img {
+	margin: 40px 8px 0;
+}
